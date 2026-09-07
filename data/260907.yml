@@ -5,13 +5,13 @@ about:
   head: 4cd47da
   archived: false
   latestVersion: "v1.14.2"
-  collectedAt: 2026-09-07T04:50:45Z
+  collectedAt: 2026-09-07T19:35:37Z
 timeline:
   created: 2025-08-11
   lastCommit: 2026-09-06
   lastRelease: 2026-09-03
 popularity:
-  star: 89
+  star: 90
   watcher: 3
   fork: 3
   release: 27
@@ -82,7 +82,7 @@ total:
   commit: 238
 ---
 path: /home/runner/.x-repo/github.com/kimusan/mastui
-collectedAt: 2026-09-07T04:50:46Z
+collectedAt: 2026-09-07T19:35:38Z
 loc:
   Python:
     code: 9216
@@ -128,7 +128,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:50:47+00:00
+  collectedAt: 2026-09-07T19:35:38+00:00
   platform:
     darwin/arm64:
       name:  null
