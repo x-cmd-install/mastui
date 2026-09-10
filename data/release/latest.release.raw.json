@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 44469216,
       "digest": "sha256:beca0cdb4369a42f12737689b1bc8d87f28ca262145c0ca9a5915f07111c6d97",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-03T08:04:06Z",
       "updated_at": "2026-09-03T08:04:08Z",
       "browser_download_url": "https://github.com/kimusan/mastui/releases/download/v1.14.2/mastui-1.14.2-1-x86_64.pkg.tar.zst"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 44311367,
       "digest": "sha256:0f4c42e568a307063b8aa81f41b4c4a5e97044cf5231af91faebb20a0e2e1c53",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-09-03T08:04:06Z",
       "updated_at": "2026-09-03T08:04:08Z",
       "browser_download_url": "https://github.com/kimusan/mastui/releases/download/v1.14.2/mastui-1.14.2-1.x86_64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 29508910,
       "digest": "sha256:7f7865b2e62d17e5ce692fa2b69a5d10facd17d7a55386ff3df2056aa6af0fd7",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-03T08:04:06Z",
       "updated_at": "2026-09-03T08:04:07Z",
       "browser_download_url": "https://github.com/kimusan/mastui/releases/download/v1.14.2/mastui-1.14.2-windows-x86_64.zip"
