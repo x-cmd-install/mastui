@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 44469216,
       "digest": "sha256:beca0cdb4369a42f12737689b1bc8d87f28ca262145c0ca9a5915f07111c6d97",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-03T08:04:06Z",
       "updated_at": "2026-09-03T08:04:08Z",
       "browser_download_url": "https://github.com/kimusan/mastui/releases/download/v1.14.2/mastui-1.14.2-1-x86_64.pkg.tar.zst"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 107262,
       "digest": "sha256:7534eb4da44417bb1de6c02f9d696adb8a6db02f23c25f9c62b6172cb39762db",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-03T08:04:06Z",
       "updated_at": "2026-09-03T08:04:06Z",
       "browser_download_url": "https://github.com/kimusan/mastui/releases/download/v1.14.2/mastui-1.14.2-py3-none-any.whl"
