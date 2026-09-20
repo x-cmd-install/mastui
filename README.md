@@ -4,7 +4,7 @@
 
 A TUI client for mastodon written in python
 
-![mastui](https://repo.x-cmd.io/mastui.svg)
+[![x-cmd/install — mastui Code Quality Monitoring Repo Card](https://repo.x-cmd.io/mastui.svg)](https://x-cmd.com/install/mastui)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **10,391** lines of code across **58** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 2 | 0 | 0 | 1 | 50 |
-| last60d | 2026-07-20 | 5 | 2 | 0 | 0 | 1 | 51 |
-| 90d | 2026-06-20 | 5 | 2 | 0 | 0 | 1 | 52 |
-| last180d | 2026-03-22 | 7 | 2 | 0 | 1 | 4 | 65 |
-| 360d | 2025-09-23 | 15 | 2 | 0 | 9 | 4 | 127 |
-| last720d | 2024-09-28 | 27 | 3 | 0 | 13 | 4 | 238 |
+| 30d | 2026-08-21 | 5 | 2 | 0 | 0 | 1 | 50 |
+| last60d | 2026-07-22 | 5 | 2 | 0 | 0 | 1 | 51 |
+| 90d | 2026-06-22 | 5 | 2 | 0 | 0 | 1 | 52 |
+| last180d | 2026-03-24 | 7 | 2 | 0 | 1 | 3 | 65 |
+| 360d | 2025-09-25 | 15 | 2 | 0 | 9 | 4 | 127 |
+| last720d | 2024-09-30 | 27 | 3 | 0 | 13 | 4 | 238 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for mastui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:15:12Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:12:34Z._
