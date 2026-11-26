@@ -48,12 +48,12 @@ Total: **10,500** lines of code across **58** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 1 | 1 | 0 | 1 |
-| 90d | 2026-08-27 | 3 | 1 | 1 | 1 | 1 | 9 |
-| last180d | 2026-05-29 | 6 | 2 | 1 | 2 | 1 | 59 |
-| 360d | 2025-11-30 | 13 | 2 | 1 | 6 | 2 | 108 |
-| last720d | 2024-12-05 | 27 | 3 | 1 | 16 | 2 | 241 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 1 | 1 | 0 | 1 |
+| 90d | 2026-08-28 | 3 | 1 | 1 | 1 | 1 | 9 |
+| last180d | 2026-05-30 | 6 | 2 | 1 | 2 | 1 | 59 |
+| 360d | 2025-12-01 | 13 | 2 | 1 | 6 | 2 | 108 |
+| last720d | 2024-12-06 | 27 | 3 | 1 | 16 | 2 | 241 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for mastui lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:46:44Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:27:02Z._
